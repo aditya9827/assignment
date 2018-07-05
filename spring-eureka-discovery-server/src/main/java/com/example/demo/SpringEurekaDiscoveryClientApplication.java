@@ -10,5 +10,6 @@ public class SpringEurekaDiscoveryClientApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringEurekaDiscoveryClientApplication.class, args);
+		
 	}
 }
